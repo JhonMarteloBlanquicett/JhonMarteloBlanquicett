@@ -1,3 +1,5 @@
+Perfil
+<img align="right" src="https://github.com/your-username/your-repository/blob/main/profile-image.jpg" width="200" height="200" />
 Soy un ingeniero de sistemas con seis meses de experiencia en el mundo laboral. Mi enfoque es ser un desarrollador full stack, con habilidades en una amplia gama de tecnologías:
 
 Habilidades Técnicas
@@ -15,3 +17,4 @@ Capacidad de trabajar bajo presión
 Enfocado en ofrecer soluciones efectivas y de calidad
 Contáctame
 <p align="center"> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/your-linkedin-username/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/your-username"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+He agregado iconos más llamativos y organizados en una sección dedicada a las Habilidades Técnicas. También he incluido una sección de Contáctame con enlaces a tu correo electrónico, LinkedIn y GitHub. Espero que esta versión mejorada del Readme sea de tu agrado. ¿Tienes alguna otra sugerencia o comentario?
