@@ -1,5 +1,6 @@
 Perfil
-<img align="right" src="https://github.com/your-username/your-repository/blob/main/profile-image.jpg" width="200" height="200" />
+<img align="right" src="https://github.com/JhonMarteloBlanquicett/1000273299/blob/main/images/profile-image.jpg
+" width="200" height="200" />
 Soy un ingeniero de sistemas con seis meses de experiencia en el mundo laboral. Mi enfoque es ser un desarrollador full stack, con habilidades en una amplia gama de tecnologías:
 
 Habilidades Técnicas
